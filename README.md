@@ -9,6 +9,7 @@ Cidadão:
 - Criar solicitação
 - Consultar status por protocolo
 - Opção de anonimato
+
 Gestor:
 - Listar solicitações
 - Buscar por protocolo
